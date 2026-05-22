@@ -1,0 +1,16 @@
+{
+  "name": "pengadaan-server",
+  "version": "1.0.0",
+  "description": "Server untuk aplikasi pengadaan IT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["pengadaan", "it"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
