@@ -99,10 +99,6 @@ tbody tr:hover {background: #f7fafc;}
 .loading,.empty {text-align: center; padding: 40px; color: #718096; background: white;}
 
 /* Form styles */
-.container {
-    position: relative;
-    ...
-}
 .tb-date {
     position: absolute;
     top: 25px;
